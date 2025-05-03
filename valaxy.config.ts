@@ -18,12 +18,10 @@ export default defineValaxyConfig<ThemeUserConfig>({
       primary:"#03a9f4"
     },
     hero:{
-      title:"Hello, Lwek！",
+      title:"Hello Lwek!",
       motto:"圣火昭昭，圣光耀耀。凡我弟子，喵喵喵喵！",
       urls:[
-        "https://pic1.imgdb.cn/item/6812f2b858cb8da5c8d5da78.jpg",
-        "https://pic1.imgdb.cn/item/6815b33c58cb8da5c8d7f3f1.jpg",
-        "https://pic1.imgdb.cn/item/6812f17158cb8da5c8d5d9e2.jpg"
+        "https://pic1.imgdb.cn/item/6812f2b858cb8da5c8d5da78.jpg"
       ],
       waveTheme: 'ripple',
       style:"filter-grid",

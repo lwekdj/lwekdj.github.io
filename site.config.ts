@@ -1,13 +1,15 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
-  url: 'https://valaxy.site/',
+  url: 'https://lwekdj.github.io/',
   lang: 'zh-CN',
   title: 'Lwek 测试',
   author: {
     name: 'Lwek',
+    avatar:'https://avatars.githubusercontent.com/u/209656811',
+
   },
-  description: '喵喵喵',
+  description: '谁会闲的没事看我主页呢╮(￣▽￣)╭',
   social: [
     {
       name: 'RSS',

@@ -30,24 +30,24 @@
     }
   
     &-parallax > use:nth-child(4) {
-      opacity: 0.9;
+      opacity: 1;
       animation-delay: -2s;
       animation-duration: 7s;
     }
   
     &-parallax > use:nth-child(3) {
-      opacity: 0.7;
+      opacity: 0.6;
       animation-delay: -3s;
       animation-duration: 10s;
     }
     &-parallax > use:nth-child(2) {
-      opacity: 0.5;
+      opacity: 0.4;
       animation-delay: -4s;
       animation-duration: 13s;
     }
   
     &-parallax > use:nth-child(1) {
-      opacity: 0.3;
+      opacity: 0.2;
       animation-delay: -5s;
       animation-duration: 20s;
     }
