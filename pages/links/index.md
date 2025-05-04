@@ -1,9 +1,10 @@
 ---
-title: 我的小伙伴们
+layout: links
+title: 友链板
 keywords: 链接
-description: 云游的小伙伴们
-links: https://www.yunyoujun.cn/friends/links.json
+icon: i-fa-chain
+links: 
+    - rss: https://linium.xin/atom.xml
 random: true
+nav: false
 ---
-
-<YunLinks :links="frontmatter.links" :random="frontmatter.random" />

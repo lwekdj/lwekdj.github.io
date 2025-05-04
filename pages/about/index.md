@@ -1,5 +1,8 @@
 ---
 title: 关于我
+layout: post
+nav: false
+toc: false
 ---
 
 I am developing [Valaxy](https://github.com/YunYouJun/valaxy) - Next Generation Static Blog Framework.

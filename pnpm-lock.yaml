@@ -27,6 +27,12 @@ importers:
         specifier: 0.23.3
         version: 0.23.3(vue@3.5.13(typescript@5.8.3))
     devDependencies:
+      '@iconify-json/fa':
+        specifier: ^1.2.1
+        version: 1.2.1
+      '@iconify-json/line-md':
+        specifier: ^1.2.7
+        version: 1.2.7
       typescript:
         specifier: ^5.8.3
         version: 5.8.3
@@ -469,6 +475,12 @@ packages:
 
   '@iconify-json/fa6-solid@1.2.3':
     resolution: {integrity: sha512-C5o8YJF+ekrS4wRb/6/0SE2KjRyJlCg++IOVC/fineiRinITivsmzFRNW1MQX2xfDZ1T7bxeKxLN6lcaTG3jGA==}
+
+  '@iconify-json/fa@1.2.1':
+    resolution: {integrity: sha512-aY2+tQNWq5ch+ShtAz3KKbNrFfwf4BPrXvyN7S4/lcf6Wms+kIxsd7C7KortzHZhoBnbhVN+qo+YUWLW7rLs9Q==}
+
+  '@iconify-json/line-md@1.2.7':
+    resolution: {integrity: sha512-ps7izJ+UwvFGWhbqNQ24JmbzRFIqTG3riesqfnwfPIwxa0TCIvngQdn0M6wv8EyidgWlko3CcBsPkGl49hqTdA==}
 
   '@iconify-json/logos@1.2.4':
     resolution: {integrity: sha512-XC4If5D/hbaZvUkTV8iaZuGlQCyG6CNOlaAaJaGa13V5QMYwYjgtKk3vPP8wz3wtTVNVEVk3LRx1fOJz+YnSMw==}
@@ -4323,6 +4335,14 @@ snapshots:
       '@iconify/types': 2.0.0
 
   '@iconify-json/fa6-solid@1.2.3':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/fa@1.2.1':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/line-md@1.2.7':
     dependencies:
       '@iconify/types': 2.0.0
 

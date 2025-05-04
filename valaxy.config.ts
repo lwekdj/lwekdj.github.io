@@ -4,11 +4,15 @@ import { defineValaxyConfig } from 'valaxy'
 // add icons what you will need
 const safelist = [
   'i-ri-home-line',
+  'i-fa-fort-awesome',
+  'i-line-md-folder-twotone',
+  'i-fa-archive',
+  'i-fa-edit',
+  'i-fa-chain',
+  'i-fa-leaf',
+  'i-fa-feed'
 ]
 
-/**
- * User Config
- */
 export default defineValaxyConfig<ThemeUserConfig>({
   // site config see site.config.ts
 
@@ -18,8 +22,8 @@ export default defineValaxyConfig<ThemeUserConfig>({
       primary:"#03a9f4"
     },
     hero:{
-      title:"Hello Lwek!",
-      motto:"圣火昭昭，圣光耀耀。凡我弟子，喵喵喵喵！",
+      title:"HELLO LWEK!",
+      motto:"责人之心责己，恕已之心恕人。",
       urls:[
         "https://pic1.imgdb.cn/item/6812f2b858cb8da5c8d5da78.jpg"
       ],
@@ -33,6 +37,68 @@ export default defineValaxyConfig<ThemeUserConfig>({
     footer: {
       since: 2025,
     },
+    navbar:[
+      {
+        icon: 'i-fa-fort-awesome',
+        locale: 'menu.home',
+        link: '/',
+      },
+      {
+        icon: 'i-line-md-folder-twotone',
+        locale: 'menu.categories',
+        link: '/categories',
+      },
+      {
+        icon: 'i-fa-archive',
+        locale: 'menu.archives',
+        link: '/archives',
+      },
+      {
+        text: '友链',
+        icon: 'i-fa-chain',
+        link: '/links',
+      },
+      {
+        text: '关于',
+        icon: 'i-fa-leaf',
+        link: "/about",
+        target: '_blank',
+      },
+      {
+        text: 'RSS',
+        icon: 'i-fa-feed',
+        link: '/atom.xml',
+        target: '_blank',
+      },
+    ],
+    sidebar:[
+      {
+        text: '🏰',
+        locale: 'menu.home',
+        link: '/',
+      },
+      {
+        text: '🗂️',
+        locale: 'menu.archives',
+        link: '/archives/',
+      },
+      {
+        text: '📂',
+        locale: 'menu.categories',
+        link: '/categories/',
+      },
+      {
+        text: '🏷️',
+        locale: 'menu.tags',
+        link: '/tags/',
+      },
+    ],
+    navbarOptions:{
+      title:["Lwek's", "Blog"],
+      invert: ['home'],
+      showMarker: true,
+      autoHide: true,
+    }
   },
 
   unocss: { safelist },

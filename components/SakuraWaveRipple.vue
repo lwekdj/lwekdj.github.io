@@ -67,8 +67,8 @@
   
   @media (width <= 768px) {
     .waves {
-      height: 40px;
-      min-height: 40px;
+      height: 10px;
+      min-height: 10px;
     }
   }
 </style>

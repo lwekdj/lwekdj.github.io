@@ -20,6 +20,8 @@
     "valaxy-theme-yun": "0.23.3"
   },
   "devDependencies": {
+    "@iconify-json/fa": "^1.2.1",
+    "@iconify-json/line-md": "^1.2.7",
     "typescript": "^5.8.3"
   }
 }

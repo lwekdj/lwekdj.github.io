@@ -3,12 +3,17 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   url: 'https://lwekdj.github.io/',
   lang: 'zh-CN',
-  title: 'Lwek 测试',
+  title: 'Lwek',
   author: {
     name: 'Lwek',
     avatar:'https://avatars.githubusercontent.com/u/209656811',
-
+    status:{
+      emoji:"✨",
+      message:"喵？"
+    }
   },
+  subtitle:"",
+  
   description: '谁会闲的没事看我主页呢╮(￣▽￣)╭',
   social: [
     {
@@ -34,4 +39,7 @@ export default defineSiteConfig({
   search: {
     enable: false,
   },
+  frontmatter:{
+    sponsor:false
+  }
 })
