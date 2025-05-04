@@ -31,9 +31,6 @@ export default defineValaxyConfig<ThemeUserConfig>({
       style:"filter-grid",
       typewriter:true,
     },
-    notice:{
-      message:"测试一下公告功能喵"
-    },
     footer: {
       since: 2025,
     },
