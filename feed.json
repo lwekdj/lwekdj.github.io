@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Lwek",
+    "home_page_url": "https://lwekdj.github.io/",
+    "feed_url": "https://lwekdj.github.io/feed.json",
+    "description": "谁会闲的没事看我主页呢╮(￣▽￣)╭",
+    "icon": "https://avatars.githubusercontent.com/u/209656811",
+    "author": {
+        "name": "Lwek",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<p>网络还是太奇怪了，他可以轻易的把一种表达转换为另一种表达，把一段讨论转变为争吵，把<strong>错误</strong>转变为<strong>恶意</strong>。</p>\n<br/><p>访问 <a href=\"https://lwekdj.github.io/posts/untitled/index\" target=\"_blank\">https://lwekdj.github.io/posts/untitled/index</a> 阅读全文。</p>",
+            "url": "https://lwekdj.github.io/posts/untitled/index",
+            "title": "无题",
+            "date_modified": "2025-04-27T00:00:00.000Z",
+            "date_published": "2025-05-08T14:28:56.597Z",
+            "author": {
+                "name": "Lwek",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

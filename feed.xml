@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Lwek</title>
+        <link>https://lwekdj.github.io/</link>
+        <description>谁会闲的没事看我主页呢╮(￣▽￣)╭</description>
+        <lastBuildDate>Thu, 08 May 2025 14:30:05 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Lwek</title>
+            <url>https://avatars.githubusercontent.com/u/209656811</url>
+            <link>https://lwekdj.github.io/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2025 © Lwek</copyright>
+        <atom:link href="https://lwekdj.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[无题]]></title>
+            <link>https://lwekdj.github.io/posts/untitled/index</link>
+            <guid>https://lwekdj.github.io/posts/untitled/index</guid>
+            <pubDate>Thu, 08 May 2025 14:28:56 GMT</pubDate>
+            <content:encoded><![CDATA[<p>网络还是太奇怪了，他可以轻易的把一种表达转换为另一种表达，把一段讨论转变为争吵，把<strong>错误</strong>转变为<strong>恶意</strong>。</p>
+<br/><p>访问 <a href="https://lwekdj.github.io/posts/untitled/index" target="_blank">https://lwekdj.github.io/posts/untitled/index</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (Lwek)</author>
+        </item>
+    </channel>
+</rss>
