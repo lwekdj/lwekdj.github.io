@@ -1,4 +1,5 @@
 import type { ThemeUserConfig } from 'valaxy-theme-sakura'
+import { addonWaline } from 'valaxy-addon-waline'
 import { defineValaxyConfig } from 'valaxy'
 
 // add icons what you will need
@@ -95,8 +96,14 @@ export default defineValaxyConfig<ThemeUserConfig>({
       invert: ['home'],
       showMarker: true,
       autoHide: true,
-    }
+    },
+    scrollToTop:true
   },
-
+  addons:[
+    addonWaline({
+      serverURL:"https://comments.lwek.world",
+      comment:true,
+    }),
+  ],
   unocss: { safelist },
 })

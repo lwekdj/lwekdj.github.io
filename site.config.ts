@@ -40,6 +40,10 @@ export default defineSiteConfig({
     enable: false,
   },
   frontmatter:{
-    sponsor:false
+    sponsor:false,
+    comment:true,
+  },
+  comment:{
+    enable:true,
   }
 })
