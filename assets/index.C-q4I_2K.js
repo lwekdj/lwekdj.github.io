@@ -1,0 +1,1 @@
+import{d as e}from"./chunks/vue-router.CcF8bV7z.js";import{J as c,O as t,L as n}from"./framework.DsqPfrbE.js";const o={};function r(f,s){return n(),t("div")}typeof e=="function"&&e(o);const _=c(o,[["render",r]]);export{_ as default};

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://lwekdj.github.io/</id>
+    <title>Lwek</title>
+    <updated>2025-09-07T14:41:33.902Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>Lwek</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://lwekdj.github.io/"/>
+    <link rel="self" href="https://lwekdj.github.io/atom.xml"/>
+    <subtitle>谁会闲的没事看我主页呢╮(￣▽￣)╭</subtitle>
+    <logo>https://avatars.githubusercontent.com/u/209656811</logo>
+    <icon>https://lwekdj.github.io/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2025 © Lwek</rights>
+    <entry>
+        <title type="html"><![CDATA[无题]]></title>
+        <id>https://lwekdj.github.io/posts/untitled/index</id>
+        <link href="https://lwekdj.github.io/posts/untitled/index"/>
+        <updated>2025-04-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>网络还是太奇怪了，他可以轻易把一种表达转为另一种表达，把一段讨论转为争吵，把<strong>错误</strong>转变为<strong>恶意</strong>。</p>
+<br/><p>访问 <a href="https://lwekdj.github.io/posts/untitled/index" target="_blank">https://lwekdj.github.io/posts/untitled/index</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Lwek</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-09-07T14:40:23.965Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为了忘却的纪念]]></title>
+        <id>https://lwekdj.github.io/posts/CommemorationForForget/index</id>
+        <link href="https://lwekdj.github.io/posts/CommemorationForForget/index"/>
+        <updated>2025-05-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>我到目前为止的人生中，贯彻了两个问题：一个是<strong>校园霸凌</strong>，一个是<strong>原生家庭</strong>。</p>
+<br/><p>访问 <a href="https://lwekdj.github.io/posts/CommemorationForForget/index" target="_blank">https://lwekdj.github.io/posts/CommemorationForForget/index</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Lwek</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-09-07T14:40:23.959Z</published>
+    </entry>
+</feed>

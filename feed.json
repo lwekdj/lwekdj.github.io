@@ -1,0 +1,38 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Lwek",
+    "home_page_url": "https://lwekdj.github.io/",
+    "feed_url": "https://lwekdj.github.io/feed.json",
+    "description": "谁会闲的没事看我主页呢╮(￣▽￣)╭",
+    "icon": "https://avatars.githubusercontent.com/u/209656811",
+    "author": {
+        "name": "Lwek",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<p>网络还是太奇怪了，他可以轻易把一种表达转为另一种表达，把一段讨论转为争吵，把<strong>错误</strong>转变为<strong>恶意</strong>。</p>\n<br/><p>访问 <a href=\"https://lwekdj.github.io/posts/untitled/index\" target=\"_blank\">https://lwekdj.github.io/posts/untitled/index</a> 阅读全文。</p>",
+            "url": "https://lwekdj.github.io/posts/untitled/index",
+            "title": "无题",
+            "date_modified": "2025-04-27T00:00:00.000Z",
+            "date_published": "2025-09-07T14:40:23.965Z",
+            "author": {
+                "name": "Lwek",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>我到目前为止的人生中，贯彻了两个问题：一个是<strong>校园霸凌</strong>，一个是<strong>原生家庭</strong>。</p>\n<br/><p>访问 <a href=\"https://lwekdj.github.io/posts/CommemorationForForget/index\" target=\"_blank\">https://lwekdj.github.io/posts/CommemorationForForget/index</a> 阅读全文。</p>",
+            "url": "https://lwekdj.github.io/posts/CommemorationForForget/index",
+            "title": "为了忘却的纪念",
+            "date_modified": "2025-05-17T00:00:00.000Z",
+            "date_published": "2025-09-07T14:40:23.959Z",
+            "author": {
+                "name": "Lwek",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
